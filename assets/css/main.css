@@ -1,0 +1,41 @@
+
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 0 auto;
+}
+
+nav {
+  height: 64px !important;
+}
+
+.logo {
+  margin-top: 2px;
+}
+
+.googleplus {
+  color: #bb0000;
+}
+.twitter {
+  color: #00aced;
+}
+.facebook {
+  color: #3b5998;
+}
+.snapchat {
+  color: #FFFC00;
+}
+.instagram {
+  color: #bc2a8d;
+}
+.wordpress {
+  color: #23282d;
+}
+
+a { 
+    color: #c62828;
+}
